@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "創聖のアクエリオン",
+  "base_artist": "AKINO from bless4",
+  "createdAt": "2026-02-06T16:21:48.575714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン お兄さまと",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/01_創聖のアクエリオン_お兄さまと_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン (オリジナルVer.)",
+      "artist": "AKINO from bless4",
+      "has_synced": false,
+      "path": "select/02_創聖のアクエリオン_(オリジナルVer.)_AKINO_from_bless4.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "AKINO from bless4",
+      "has_synced": false,
+      "path": "select/03_創聖のアクエリオン_AKINO_from_bless4.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "Anime That Jazz",
+      "has_synced": false,
+      "path": "select/04_創聖のアクエリオン_Anime_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion [創聖のアクエリオン]",
+      "artist": "ANIME THAT JAZZ",
+      "has_synced": false,
+      "path": "select/05_Genesis_of_Aquarion_[創聖のアクエリオン]_ANIME_THAT_JAZZ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/06_創聖のアクエリオン_Lia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion(「創聖のアクエリオン」より)",
+      "artist": "Rasmus Faber Presents Presents platina Jazz",
+      "has_synced": false,
+      "path": "select/07_Genesis_of_Aquarion(「創聖のアクエリオン」より)_Rasmus_Faber_Presents_Presents_platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/08_創聖のアクエリオン_AKINO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/09_創聖のアクエリオン_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン - Sousei no Aquarion",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/10_創聖のアクエリオン_-_Sousei_no_Aquarion_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン (Sousei no Aquarion)",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/11_創聖のアクエリオン_(Sousei_no_Aquarion)_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン お兄さまと",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/12_創聖のアクエリオン_お兄さまと_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/13_創聖のアクエリオン_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "Chum",
+      "has_synced": false,
+      "path": "select/14_創聖のアクエリオン_Chum.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/15_創聖のアクエリオン_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン(作詞賞)",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/16_創聖のアクエリオン(作詞賞)_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "創聖のアクエリオン",
+      "artist": "Dank-One feat. Ari",
+      "has_synced": true,
+      "path": "select/17_創聖のアクエリオン_Dank-One_feat._Ari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "創聖のアクエリオン (エレメント合体Ver.)",
+      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
+      "has_synced": false,
+      "path": "select/pl_01_創聖のアクエリオン_(エレメント合体Ver.)_アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "創聖のアクエリオン",
+      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
+      "has_synced": false,
+      "path": "select/pl_02_創聖のアクエリオン_アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "創聖のアクエリオン エレメント合体Ver.",
+      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
+      "has_synced": false,
+      "path": "select/pl_03_創聖のアクエリオン_エレメント合体Ver._アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "創聖のアクエリオン Myth of Emotions Ver.",
+      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
+      "has_synced": false,
+      "path": "select/pl_04_創聖のアクエリオン_Myth_of_Emotions_Ver._アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+    }
+  ]
+}

@@ -1,53 +1,36 @@
-# AKINO from bless4 – 創聖のアクエリオン
+# AKINO – 創聖のアクエリオン
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:07.59] 世界の始まりの日 生命の樹の下で
-[00:14.26] くじらたちの声の遠い残響 二人で聞いた
-[00:20.36] 失くしたものすべて 愛したものすべて
-[00:26.97] この手に抱きしめて
-[00:30.02] 現在は何処を彷徨い行くの
-[00:36.02] 
-[00:33.52] 答えの潜む琥珀の太陽
-[00:39.82] 出会わなければ 殺戮の天使でいられた
-[00:46.15] 不死なる瞬き持つ魂
-[00:51.76] 傷つかないで 僕の羽根
-[00:55.43] この気持ち知るため生まれてきた
-[01:02.93] 
-[01:02.12] 一万年と二千年前から愛してる
-[01:08.54] 八千年過ぎた頃から もっと恋しくなった
-[01:14.82] 一億と二千年後も愛してる
-[01:21.17] 君を知ったその日から 僕の地獄に音楽は絶えない
-[01:32.67] 
-[01:46.12] 世界が終わる前に 生命が終わる前に
-[01:52.74] 眠る嘆きほどいて 君の薫り抱きしめたいよ
-[02:02.74] 
-[01:59.44] 耳すませた海神の記憶
-[02:05.69] 失意にのまれ立ち尽くす麗しき月
-[02:12.26] よみがえれ 永遠に涸れぬ光
-[02:17.89] 汚されないで 君の夢
-[02:21.25] 祈り宿しながら生まれてきた
-[02:27.75] 
-[02:28.19] 一万年と二千年前から愛してる
-[02:34.57] 八千年過ぎた頃から もっと恋しくなった
-[02:40.59] 一億と二千年後も愛してる
-[02:47.19] 君を知ったその日から 僕の地獄に音楽は絶えない
-[02:58.69] 
-[02:59.91] 君がくり返し大人になって
-[03:02.84] 何度も何度も遠くへ行って
-[03:06.08] 見守る僕が眠れない僕が
-[03:09.36] くしゃくしゃになったとしても
-[03:16.36] 
-[03:22.16] 君の名を歌うために
-[03:26.66] 
-[03:28.42] 一万年と二千年前から愛してる
-[03:34.64] 八千年過ぎた頃から もっと恋しくなった
-[03:41.22] 一億と二千年後も愛してる
-[03:47.47] 君を知ったその日から
-[03:52.47] 
-[03:53.82] 一万年と二千年前から愛してる
-[04:00.06] 八千年過ぎた頃から もっと恋しくなった
-[04:06.39] 一億と二千年たっても愛してる
-[04:12.83] 君を知ったその日から 僕の地獄に音楽は絶えない
+[00:01.01] 君がくり返し大人になって 何度も何度も遠くへ行って
+[00:13.51] 
+[00:08.07] 見守る僕が 眠れない僕が くしゃくしゃになったとしても
+[00:21.57] 
+[00:24.01] 君の名を歌うために...
+[00:30.01] 
+[00:46.02] Genesis (Genesis)
+[00:49.04] Of Aquarion (of Aquarion)
+[00:54.04] Genesis (Genesis)
+[00:57.01] Of Aquarion (of Aquarion)
+[00:59.05] I remember sitting with you (sitting with you)
+[01:03.08] Underneath the tree of life (Underneath the tree of life)
+[01:06.03] We listened to every fainted cry
+[01:09.06] Of the creatures there on the day the world began
+[01:12.05] Looking at everything that I've lost (everything that I've lost)
+[01:16.09] And almost everything that I've loved (everything that I've loved)
+[01:19.02] I'll hold them all (in my arms) tightly in my arms
+[01:22.06] Wondering where I am, so please tell me where to go
+[01:26.07] All of the answers you seek lie hidden in the sun (a-qua-ri-on)
+[01:32.05] If I hadn't met you my life would've been in the darkness forever
+[01:39.06] In my wings (In my wings) are the powers of immortality
+[01:45.00] But by meeting you my whole life has changed
+[01:49.07] You give light to me hope to me strength into my life
+[01:56.03] All this time these twelve thousand years I know 愛してる! (I Love You!)
+[02:03.00] Eight thousand years from the time that I've met you my love grows strong than ever before (oh My love)
+[02:09.07] Words can't say of this time I've been waiting to share my love with you (愛してる!)
+[02:16.05] I'd give you my life, I would give you the world to see you smiling every day (smiling every day)
+[02:23.02] One hundred million and two thousand years from now 愛してる (I Love You!)
+[02:29.00] I want you to know since you came in my life every day, every night you give light into the darkest skies (skies) (Aquarion)
+[02:51.05] All these twelve thousand years I've been loving you
 ```

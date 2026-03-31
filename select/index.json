@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "創聖のアクエリオン",
-  "base_artist": "AKINO from bless4",
-  "createdAt": "2026-02-06T16:21:48.575714Z",
+  "base_artist": "AKINO",
+  "createdAt": "2026-03-31T20:54:43.826478Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -143,34 +143,28 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "創聖のアクエリオン (エレメント合体Ver.)",
-      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
-      "has_synced": false,
-      "path": "select/pl_01_創聖のアクエリオン_(エレメント合体Ver.)_アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
       "title": "創聖のアクエリオン",
-      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
+      "artist": "AKINO",
       "has_synced": false,
-      "path": "select/pl_02_創聖のアクエリオン_アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+      "path": "select/pl_01_創聖のアクエリオン_AKINO.txt"
     },
     {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "創聖のアクエリオン エレメント合体Ver.",
-      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
-      "has_synced": false,
-      "path": "select/pl_03_創聖のアクエリオン_エレメント合体Ver._アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "創聖のアクエリオン",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/localdb_01_創聖のアクエリオン_AKINO.lrc",
+      "repo_name": "BKDYS7ZXnMA"
     },
     {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "創聖のアクエリオン Myth of Emotions Ver.",
-      "artist": "アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗)",
-      "has_synced": false,
-      "path": "select/pl_04_創聖のアクエリオン_Myth_of_Emotions_Ver._アポロ(寺島拓篤)、シルヴィア(かかずゆみ)、麗花(小林沙苗).txt"
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "創聖のアクエリオン",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/localdb_02_創聖のアクエリオン_AKINO.lrc",
+      "repo_name": "W6DOkcLlIgE"
     }
   ]
 }

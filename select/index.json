@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "創聖のアクエリオン",
   "base_artist": "AKINO",
-  "createdAt": "2026-03-31T20:54:43.826478Z",
+  "createdAt": "2026-04-03T06:46:02.032789Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,7 +155,7 @@
       "artist": "AKINO",
       "has_synced": true,
       "path": "select/localdb_01_創聖のアクエリオン_AKINO.lrc",
-      "repo_name": "BKDYS7ZXnMA"
+      "repo_name": "W6DOkcLlIgE"
     },
     {
       "id": "localdb_2",
@@ -164,7 +164,7 @@
       "artist": "AKINO",
       "has_synced": true,
       "path": "select/localdb_02_創聖のアクエリオン_AKINO.lrc",
-      "repo_name": "W6DOkcLlIgE"
+      "repo_name": "BKDYS7ZXnMA"
     }
   ]
 }
